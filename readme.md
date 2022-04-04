@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
-- 💻 Tecnologies that I use: **HTML5, CSS3, JavaScript (ES6), SASS, Git, Bootstrap5**
+- 💻 Technologies in which I am experienced: **HTML5, CSS3, JavaScript (ES6), SASS, Git, Bootstrap5**
 
 - 📫 How to reach me: **octaviosancho30@gmail.com**
 
