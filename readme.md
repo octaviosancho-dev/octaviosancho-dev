@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Octavio from Argentina, and I'm a Front-End Developer.</h1>
 - 🔭 I worked on the following projects: 
 
-- Herbe Website (https://rodriguezdv.github.io/proyecto-herbe/)
+- Herbe Website (https://herbe.com.ar/)
 
-- Weather App (https://github.com/octisancho/weather-app)
+- Weather App (https://octisancho.github.io/weather-app/index.html)
 
 - spaceBar blog (https://github.com/octisancho/spacebar-sancho)
 
