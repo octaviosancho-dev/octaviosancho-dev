@@ -5,7 +5,7 @@
 
 - Weather App (https://octaviosancho-dev.github.io/weather-app/index.html)
 
-- spaceBar blog (https://github.com/octaviosancho-dev/spacebar-sancho)
+- spaceBar blog (https://osancho.000webhostapp.com/index.html)
 
 - Customer Relationship Management Project (https://octaviosancho-dev.github.io/customer-database/)
 
