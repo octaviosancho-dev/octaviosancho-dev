@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **octaviosancho30@gmail.com**
 
-- 📄 Know about my experience in [https://www.linkedin.com/in/octaviosancho/](https://www.linkedin.com/in/octaviosancho/)
+- 📄 Know about my experience in [https://www.linkedin.com/in/octaviosancho-dev/](https://www.linkedin.com/in/octaviosancho-dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
