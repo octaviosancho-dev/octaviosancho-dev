@@ -3,11 +3,11 @@
 
 - Herbe Website (https://herbe.com.ar/)
 
-- Weather App (https://octisancho.github.io/weather-app/index.html)
+- Weather App (https://octaviosancho-dev.github.io/weather-app/index.html)
 
-- spaceBar blog (https://github.com/octisancho/spacebar-sancho)
+- spaceBar blog (https://github.com/octaviosancho-dev/spacebar-sancho)
 
-- Customer Relationship Management Project (https://octisancho.github.io/customer-database/)
+- Customer Relationship Management Project (https://octaviosancho-dev.github.io/customer-database/)
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
