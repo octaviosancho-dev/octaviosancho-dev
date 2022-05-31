@@ -9,8 +9,6 @@
 
 - Customer Relationship Management Project (https://octaviosancho-dev.github.io/customer-database/)
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
-
 - 💻 Technologies in which I am experienced: **HTML5, CSS3, JavaScript (ES6), SASS, Git, Bootstrap5**
 
 - 📫 How to reach me: **octaviosancho30@gmail.com**
