@@ -7,7 +7,7 @@
 
 - spaceBar blog (https://osancho.000webhostapp.com/index.html)
 
-- Customer Relationship Management Project (https://octaviosancho-dev.github.io/customer-database/)
+- CRM Project (https://octaviosancho-dev.github.io/customer-database/)
 
 - 💻 Technologies in which I am experienced: **HTML5, CSS3, JavaScript (ES6), SASS, Git, Bootstrap5**
 
