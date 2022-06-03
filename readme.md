@@ -11,7 +11,7 @@
 
 - 💻 Technologies in which I am experienced: **HTML5, CSS3, JavaScript (ES6), SASS, Git, Bootstrap5**
 
-- 📫 How to reach me: **octaviosancho30@gmail.com**
+- 📫 How to reach me: **octaviosanchodev@gmail.com**
 
 - 📄 Know about my experience in [https://www.linkedin.com/in/octaviosancho-dev/](https://www.linkedin.com/in/octaviosancho-dev/)
 
