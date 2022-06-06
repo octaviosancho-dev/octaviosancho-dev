@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Octavio from Argentina, and I'm a Front-End Developer.</h1>
-- 🔭 I worked on the following projects: 
+- 🔭 I have worked on the following projects: 
 
 - Herbe Website (https://herbe.com.ar/)
 
