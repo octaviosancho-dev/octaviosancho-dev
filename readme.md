@@ -9,7 +9,7 @@
 
 - CRM Project (https://octaviosancho-dev.github.io/customer-database/)
 
-- 💻 Technologies in which I am experienced: **HTML5, CSS3, JavaScript (ES6), SASS, Git, Bootstrap5**
+- 💻 Technologies in which I am experienced: **ReactJS, HTML5, CSS3, JavaScript (ES6), SASS, Bootstrap5, Firebase, NodeJS**
 
 - 📫 How to reach me: **octaviosanchodev@gmail.com**
 
