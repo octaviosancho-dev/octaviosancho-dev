@@ -4,7 +4,7 @@ I'm a Front-End Developer from Argentina.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Octavio-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octaviosancho-dev/) [![Mail Badge](https://img.shields.io/badge/-octaviosanchodev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:octaviosanchodev@gmail.com)
 
-- 🔭 I have worked on the following projects: 
+#### 🔭 I have worked on the following projects: 
 
 - Herbe Website (https://herbe.com.ar/)
 
@@ -14,9 +14,10 @@ I'm a Front-End Developer from Argentina.
 
 - CRM Project (https://octaviosancho-dev.github.io/customer-database/)
 
-- 🔭 I’m currently working on web self projects
+#### About Me 🙋‍♂️
+- 🔭 I'm currently working on self web projects
 - 📫 How to reach me: octaviosanchodev@gmail.com.
-- [My Resume/CV]([https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf](https://drive.google.com/file/d/1vuzu-KvwytBEqQARhJV592ETWhoAljQv/view?usp=sharing))
+- [My Resume/CV](https://drive.google.com/file/d/1vuzu-KvwytBEqQARhJV592ETWhoAljQv/view?usp=sharing)
 - 📄 Know about my experience in [https://www.linkedin.com/in/octaviosancho-dev/](https://www.linkedin.com/in/octaviosancho-dev/)
 
 #### Top Technologies
