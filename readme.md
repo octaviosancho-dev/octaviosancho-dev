@@ -19,8 +19,9 @@ I'm a Front-End Developer from Argentina.
 - [My Resume/CV](https://drive.google.com/file/d/1vuzu-KvwytBEqQARhJV592ETWhoAljQv/view?usp=sharing)
 - 📄 Know about my experience in [https://www.linkedin.com/in/octaviosancho-dev/](https://www.linkedin.com/in/octaviosancho-dev/)
 
-## Top Technologies
+## Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat&labelColor=131313&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=flat&labelColor=131313&logo=javascript&logoColor=F0DB4F)](#) [![NPM Badge](https://img.shields.io/badge/-NPM-ff2222?style=flat&labelColor=131313&logo=npm&logoColor=ff5555)](#) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat&labelColor=131313&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=flat&labelColor=131313&logo=javascript&logoColor=F0DB4F)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-379BEE?style=flat&labelColor=131313&logo=css&logoColor=379BEE)](#) 
+[![NPM Badge](https://img.shields.io/badge/-NPM-ff2222?style=flat&labelColor=131313&logo=npm&logoColor=ff5555)](#) 
