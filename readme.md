@@ -1,6 +1,6 @@
 # Hi I'm Octavio 👋
 
-## I'm a Front-End Developer from Argentina.
+### I'm a Front-End Developer from Argentina.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Octavio-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octaviosancho-dev/) [![Mail Badge](https://img.shields.io/badge/-octaviosanchodev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:octaviosanchodev@gmail.com)
 
