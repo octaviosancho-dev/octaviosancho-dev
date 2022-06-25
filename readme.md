@@ -23,4 +23,4 @@ I'm a Front-End Developer from Argentina.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat&labelColor=131313&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=flat&labelColor=131313&logo=javascript&logoColor=F0DB4F)](#) [![NPM Badge](https://img.shields.io/badge/-NPM-ff0000?style=flat&labelColor=131313&logo=npm&logoColor=ff5555)](#) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat&labelColor=131313&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=flat&labelColor=131313&logo=javascript&logoColor=F0DB4F)](#) [![NPM Badge](https://img.shields.io/badge/-NPM-AA0000?style=flat&labelColor=131313&logo=npm&logoColor=ff5555)](#) 
