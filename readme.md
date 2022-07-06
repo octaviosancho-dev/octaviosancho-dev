@@ -6,17 +6,17 @@
 
 ## 🔭 I have worked on the following projects: 
 
-- Herbe Website (https://herbe.com.ar/)
+- Herbe Website: [Link](https://herbe.com.ar/)
 
-- React E-Commerce SPA (https://coffee-ecommerce-osdev.netlify.app/)
+- React E-Commerce SPA: [Link](https://coffee-ecommerce-osdev.netlify.app/)
 
-- Weather App (https://octaviosancho-dev.github.io/weather-app/index.html)
+- Weather App: [Link](https://octaviosancho-dev.github.io/weather-app/index.html)
 
-- Valtech Company Clone Website (Dark Mode Demo): <a href="https://valtech-darkmode-demo-octaviosancho.netlify.app/" target="_blank">Link</a>
+- Valtech Company Clone Website (Dark Mode Demo): [Link](https://valtech-darkmode-demo-octaviosancho.netlify.app/)
 
-- spaceBar blog (https://osancho.000webhostapp.com/index.html)
+- spaceBar blog: [Link](https://osancho.000webhostapp.com/index.html)
 
-- CRM Project (https://octaviosancho-dev.github.io/customer-database/)
+- CRM Project: [Link](https://octaviosancho-dev.github.io/customer-database/)
 
 ## About Me 🙋‍♂️
 - I'm currently working on self web projects and looking for new jobs.
