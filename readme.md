@@ -12,7 +12,7 @@
 
 - Weather App (https://octaviosancho-dev.github.io/weather-app/index.html)
 
-- Valtech Company Clone Website (Dark Mode Demo): [Link](https://valtech-darkmode-demo-octaviosancho.netlify.app/)
+- Valtech Company Clone Website (Dark Mode Demo): [![Link](https://valtech-darkmode-demo-octaviosancho.netlify.app/)]
 
 - spaceBar blog (https://osancho.000webhostapp.com/index.html)
 
