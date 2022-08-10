@@ -12,7 +12,7 @@
 
 - Weather App: [Link](https://octaviosancho-dev.github.io/weather-app/index.html)
 
-- spaceBar blog: [Link](https://osancho.000webhostapp.com/index.html)
+- spaceBar blog: [Link](https://spacebar-blog.netlify.app/)
 
 - CRM Project: [Link](https://octaviosancho-dev.github.io/customer-database/)
 
