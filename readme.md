@@ -5,20 +5,8 @@
 [![Profile](https://img.shields.io/badge/Portfolio-282C4C?style=for-the-badge&logo=dev.to&logoColor=615EFF)](https://octaviosancho-dev-portfolio.netlify.app)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octaviosancho-dev/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:octaviosanchodev@gmail.com)
 
-## 🔭 I have worked on the following projects: 
-
-- Herbe Website: [Link](https://herbe.com.ar/)
-
-- React E-Commerce SPA: [Link](https://coffee-ecommerce-osdev.netlify.app/)
-
-- Weather App: [Link](https://octaviosancho-dev.github.io/weather-app/index.html)
-
-- spaceBar blog: [Link](https://spacebar-blog.netlify.app/)
-
-- CRM Project: [Link](https://octaviosancho-dev.github.io/customer-database/)
-
 ## About Me 🙋‍♂️
-- I'm currently working on self web projects and looking for new jobs.
+- I'm currently working as .NET Framework Developer at Reportv S.A. and developing self web projects.
 - [My Resume/CV](https://drive.google.com/file/d/1vuzu-KvwytBEqQARhJV592ETWhoAljQv/view?usp=sharing)
 - Know about my experience in [https://www.linkedin.com/in/octaviosancho-dev/](https://www.linkedin.com/in/octaviosancho-dev/)
 
