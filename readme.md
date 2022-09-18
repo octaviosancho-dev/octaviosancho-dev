@@ -2,7 +2,7 @@
 
 ### I'm a Front-End Developer from Argentina.
 
-[https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white](https://octaviosancho-dev-portfolio.netlify.app)[![Linkedin Badge](https://img.shields.io/badge/-Octavio-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octaviosancho-dev/) [![Mail Badge](https://img.shields.io/badge/-octaviosanchodev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:octaviosanchodev@gmail.com)
+[[Profile](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://octaviosancho-dev-portfolio.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/-Octavio-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octaviosancho-dev/) [![Mail Badge](https://img.shields.io/badge/-octaviosanchodev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:octaviosanchodev@gmail.com)
 
 ## 🔭 I have worked on the following projects: 
 
