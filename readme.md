@@ -10,9 +10,9 @@
 - [My Resume/CV](https://drive.google.com/file/d/1WJF3kOzMeW94ttl_kXPywnugUnLtyDo3/view?usp=sharing)
 - Know about my experience in [https://www.linkedin.com/in/octaviosancho-dev/](https://www.linkedin.com/in/octaviosancho-dev/)
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=octaviosancho-dev&show_icons=true&theme=tokyonight)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=octaviosancho-dev&show_icons=true&theme=material-palenight)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=octaviosancho-dev&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=octaviosancho-dev&theme=material-palenight)
 
 ## Technologies
 
