@@ -1,6 +1,6 @@
 # Hi I'm Octavio 👋
 
-### I'm a Front-End Developer from Argentina. <img src=https://komarev.com/ghpvc/?username = octaviosancho-dev/>
+### I'm a Front-End Developer from Argentina. <img src='https://komarev.com/ghpvc/?username=octaviosancho-dev'/>
 
 [![Profile](https://img.shields.io/badge/Portfolio-282C4C?style=for-the-badge&logo=dev.to&logoColor=615EFF)](https://octaviosancho-dev-portfolio.netlify.app)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octaviosancho-dev/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:octaviosanchodev@gmail.com)
