@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octaviosancho-dev/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:octaviosanchodev@gmail.com)
 
 ## About Me 🙋‍♂️
-- I'm currently working as .NET Developer at Reportv S.A. and developing self web projects.
+- I'm currently working as Software Developer for a Company and developing self web projects.
 - [My Resume/CV](https://drive.google.com/file/d/1WJF3kOzMeW94ttl_kXPywnugUnLtyDo3/view?usp=sharing)
 - Know about my experience in [https://www.linkedin.com/in/octaviosancho-dev/](https://www.linkedin.com/in/octaviosancho-dev/)
 
