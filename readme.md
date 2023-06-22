@@ -1,11 +1,11 @@
-# Hi I'm Octavio 👋
+# Hi I'm Octavio
 
-### I'm a Front-End Developer from Argentina.
+### Front-End Developer from Argentina.
 
 [![Profile](https://img.shields.io/badge/Portfolio-282C4C?style=for-the-badge&logo=dev.to&logoColor=615EFF)](https://octaviosancho-dev-portfolio.netlify.app)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octaviosancho-dev/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:octaviosanchodev@gmail.com)
 
-## About Me 🙋‍♂️
+## About Me
 - I'm currently working as Software Developer for a Company and developing self web projects.
 - [My Resume/CV](https://drive.google.com/file/d/1WJF3kOzMeW94ttl_kXPywnugUnLtyDo3/view?usp=sharing)
 - Know about my experience in [https://www.linkedin.com/in/octaviosancho-dev/](https://www.linkedin.com/in/octaviosancho-dev/)
