@@ -10,7 +10,7 @@
 - [My Resume/CV](https://drive.google.com/file/d/1WJF3kOzMeW94ttl_kXPywnugUnLtyDo3/view?usp=sharing)
 - More about my experience in [https://www.linkedin.com/in/octaviosancho-dev/](https://www.linkedin.com/in/octaviosancho-dev/)
 
-## Technologies
+## Tech
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
